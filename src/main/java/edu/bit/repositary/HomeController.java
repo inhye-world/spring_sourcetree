@@ -14,12 +14,7 @@ import org.springframework.web.bind.annotation.RequestMethod;
 /**
  * Handles requests for the application home page.
  */
-//version 2
-//version 1
-//version-1
-//version-2
-//version-3
-
+//develope-2
 @Controller
 public class HomeController {
 	
